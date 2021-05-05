@@ -11,6 +11,7 @@ public abstract class BaseGamersManager implements IGamersService,ICampaingServi
 	
 	
 	
+
 	
 	
 	public void Save(Gamers gamers) {
